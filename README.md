@@ -131,7 +131,6 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## 🙏 Acknowledgments
 
-- Built for the **Google Chrome Built-in AI Challenge 2025**
 - Powered by **Gemini Nano** and Chrome's built-in AI APIs
 - Thanks to the Chrome team for making AI accessible in the browser!
 
@@ -175,5 +174,3 @@ For a production version, Gmail API integration would enable full email body ana
 - 🎨 Multimodal support (analyze company logos)
 - 📊 Analytics dashboard with application tracking
 - 🔗 Direct links to assessment platforms
-# AI-chrome-extension
-# mail-filter-extension
