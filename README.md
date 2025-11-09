@@ -2,7 +2,7 @@
 
 > **Never miss an Online Assessment invite again!**
 
-A Chrome Extension that automatically detects and summarizes Online Assessment (OA) emails using Chrome's built-in AI APIs (Prompt API + Summarizer API). Built for the **Google Chrome Built-in AI Challenge 2025**.
+A Chrome Extension that automatically detects and summarizes Online Assessment (OA) emails using Chrome's built-in AI APIs (Prompt API + Summarizer API).
 
 ## 🎯 What It Does
 
@@ -117,16 +117,7 @@ The extension detects emails containing terms like:
 - Take-home Assignment, Coding Challenge
 - And more...
 
-## 🎯 Hackathon Submission
-
-**Challenge:** Google Chrome Built-in AI Challenge 2025  
-**Category:** Most Helpful - Chrome Extension  
-**APIs Used:** Prompt API, Summarizer API  
-**Problem Solved:** Job seekers often miss time-sensitive OA invites buried in their inbox
-
 ## 🤝 Contributing
-
-This is a hackathon project, but suggestions and improvements are welcome!
 
 1. Fork the repository
 2. Create your feature branch (`git checkout -b feature/amazing-feature`)
